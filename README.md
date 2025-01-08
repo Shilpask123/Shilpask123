@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Shilpask123
+- Web Developer Intern at LearnHyve, Kolkata
 - 👀 I’m interested in Java development, building scalable applications, and exploring new technologies.
 - 🌱 I’m currently learning Spring Boot, microservices architecture, and advanced Java concepts.
 - 💞️ I’m looking to collaborate on open-source Java projects, or any exciting development work that challenges my skills.

@@ -9,7 +9,7 @@
 
 🎓 **Education:** BCA Graduate | Diploma in Computer Science  
 💼 **Internship:** Software Developer Intern @ LearnHyve (Oct 2024 – Jan 2025)  
-💡 **Passionate About:** Web Development, Full Stack Development, and Big Data  
+💡 **Passionate About:** Web Development and Full Stack Development 
 🌱 **Currently Learning:** C#  
 🛠 **Tech Enthusiast:** Loves building user-friendly applications  
 

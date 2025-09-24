@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Shilpa Kambale**!  
 
-💻 **I am a dedicated and enthusiastic Web Developement**  
+💻 **I am a dedicated and enthusiastic Software Developement**  
 📍 **Bangalore, India**  
 
 ---

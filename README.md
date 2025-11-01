@@ -7,10 +7,9 @@
 
 ## 🚀 About Me  
 
-🎓 **Education:** BCA Graduate | Diploma in Computer Science  
-💼 **Internship:** Software Developer Intern @ LearnHyve (Oct 2024 – Jan 2025)  
+🎓 **Education:** BCA Graduate | Diploma in Computer Science    
 💡 **Passionate About:** Web Development and Full Stack Development  
-🌱 **Currently Learning:** C#  
+🌱 **Currently Learning:** SpringBoot
 🛠 **Tech Enthusiast:** Loves building user-friendly applications  
 
 ---

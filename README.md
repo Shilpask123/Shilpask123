@@ -16,23 +16,22 @@
 
 ## 🛠 Tech Stack  
 
-### 🔹 Languages
+🔹 **Languages :**
 Java | C# | JavaScript | SQL 
 
-### 🔹 Frontend Technologies
+🔹 **Frontend Technologies :**
 HTML5 | CSS3 | JavaScript | Responsive Web Design
 
-### 🔹 Backend Technologies
+🔹 **Backend Technologies :**
 Java | Spring Boot | Spring MVC | Hibernate | JPA | Microservices | REST APIs | Java 8 | CRUD Operations | Exception Handling | Collections Framework
 
-### 🔹 Database
+🔹 **Database :**
 MySQL | SQL
 
-### 🔹 Tools & Platforms
+🔹 **Tools & Platforms :**
 Git | GitHub | IntelliJ IDEA | Visual Studio | Maven | Postman | Netlify
 
-### 🔹 Other
-FlutterFlow
+🔹 **Other :** FlutterFlow
 
 ---
 

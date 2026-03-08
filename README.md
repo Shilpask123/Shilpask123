@@ -17,22 +17,22 @@
 ## 🛠 Tech Stack  
 
 ### 🔹 Languages
-Java ☕ | C# 🔷 | JavaScript 🟡 | SQL 🗄
+Java | C# | JavaScript | SQL 
 
 ### 🔹 Frontend Technologies
-HTML5 🎨 | CSS3 🎭 | JavaScript ✨ | Responsive Web Design 📏
+HTML5 | CSS3 | JavaScript | Responsive Web Design
 
 ### 🔹 Backend Technologies
-Java Full Stack Development 🖥 | Spring Boot 🌱 | Spring MVC 🔄 | Hibernate 🗂 | JPA 📦 | Microservices 🧩 | REST APIs 🔗 | Java 8 ☕ | CRUD Operations 🔁 | Exception Handling ⚠ | Collections Framework 📚
+Java | Spring Boot | Spring MVC | Hibernate | JPA | Microservices | REST APIs | Java 8 | CRUD Operations | Exception Handling | Collections Framework
 
 ### 🔹 Database
-MySQL 🛢 | SQL 📊
+MySQL | SQL
 
 ### 🔹 Tools & Platforms
-Git 🌿 | GitHub 🐙 | IntelliJ IDEA 💡 | Visual Studio 🔧 | Maven 📦 | Postman 📬 | Netlify 🚀
+Git | GitHub | IntelliJ IDEA | Visual Studio | Maven | Postman | Netlify
 
 ### 🔹 Other
-FlutterFlow 📱
+FlutterFlow
 
 ---
 
